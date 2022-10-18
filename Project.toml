@@ -1,0 +1,13 @@
+name = "SpectralMethodsInJulia"
+uuid = "10f5db8b-48fa-477d-80e1-5306b965994a"
+authors = ["Paulo José Saiz Jabardo"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
